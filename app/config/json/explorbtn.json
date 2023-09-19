@@ -1,0 +1,12 @@
+[
+    {
+        "TEXT": "Email",
+        "Command": "EmailContent",
+        "Nivel": [3, 2]
+    },
+    {
+        "TEXT": "Folha",
+        "Command": "FolhaPagamento",
+        "Nivel": [1]
+    }
+]
