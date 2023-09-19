@@ -3,10 +3,10 @@ import mysql.connector
 def Connect():
     try:
         connection = mysql.connector.connect(
-            host='blucaju.com.br',
-            user='blucaj55_admin',
-            password='eugostodemacarrao',
-            database='blucaj55_sisac',
+            host='',
+            user='',
+            password='',
+            database='',
             port='3306',
         )
         if connection.is_connected():
